@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@hu-po/streams" target="_blank">
-  <img src="https://github.com/hu-po/hu-po/blob/main/images/catprofpic.png" alt="Buboo" width="100%"
+  <img src="https://github.com/hu-po/hu-po/blob/main/images/catprofpic.png" alt="Buboo" width="25%"
   style="border-radius:50%"
   />
 </a>
