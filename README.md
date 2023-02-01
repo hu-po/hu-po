@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="https://www.youtube.com/@hu-po/streams" target="_blank">
+  <img src="https://github.com/hu-po/hu-po/blob/main/images/catprofpic.jpg" alt="Buboo" width="100%" border-radius="50%"/>
+</a>
 
-<!--
-**hu-po/hu-po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+My name is <strong>Hu</strong>go <strong>Po</strong>nte, I build technology: ML, RL, Robotics, VR, and more! I stream live on YouTube and I  am also available for consulting work, reach out to me at <strong>hu.po.xyz<!-- bad bot -->@<!-- stahp it -->gmail.com</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@hu-po) [<img src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" />](https://hu-po.github.io/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hugoponte/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://hu-po.medium.com)
+
+
+
