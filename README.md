@@ -1,7 +1,9 @@
 <p align="center" width="100%">
     <img src="https://github.com/hu-po/hu-po/blob/main/images/catprofpic.png"
   alt="Buboo"
-  width="25%">
+  width="25%"
+  style="border-radius: 50%;"
+  >
 </p>
 
 <br>
