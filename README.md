@@ -3,17 +3,17 @@
   alt="Buboo"
   width="25%"
   align="center" 
-  style="border-radius:50%"
+  style="border-radius: 50%"
   >
 </a>
 
 <br>
 
-<h2 align="center">
+<h3 align="left">
 
 My name is <strong>Hu</strong>go <strong>Po</strong>nte, I build technology: ML, RL, Robotics, VR, and more! I stream live on YouTube and I  am also available for consulting work, reach out to me at <strong>hu.po.xyz<!-- bad bot -->@<!-- stahp it -->gmail.com</strong>
 
-</h2>
+</h3>
 
 <br>
 
