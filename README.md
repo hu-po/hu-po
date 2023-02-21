@@ -10,7 +10,7 @@
  -->
 <p align="left">
 
-My name is <strong>Hu</strong>go <strong>Po</strong>nte, I build technology: ML, RL, Robotics, VR, and more! I stream live on YouTube and I  am also available for consulting work, reach out to me at <strong>hu.po.xyz<!-- bad bot -->@<!-- stahp it -->gmail.com</strong>
+My name is <strong>Hu</strong>go <strong>Po</strong>nte, I build technology: ML, RL, Robotics, VR, and more! I stream live on YouTube with my cat Bu. I am available for consulting work, reach out to me at <strong>hu.po.xyz<!-- bad bot -->@<!-- stahp it -->gmail.com</strong>
 
 </p>
 
