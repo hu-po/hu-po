@@ -28,3 +28,6 @@ My name is <strong>Hu</strong>go <strong>Po</strong>nte, I build technology: ML,
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://hu-po.github.io/)
 
 <!-- </p> -->
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=hu-po.readme)
