@@ -13,4 +13,4 @@
 
 Reach out: <strong>hu.po.xyz<!-- bad bot -->@<!-- stahp it -->gmail.com</strong>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hu-po&show_icons=true&count_private=true&theme=shadow_blue)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hu-po&show_icons=true&count_private=true&theme=shadow_blue) --> 
