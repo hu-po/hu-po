@@ -1,6 +1,6 @@
 **Live on:**
 
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@hu-po)
+[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@hu-po/live)
 [<img src="https://img.shields.io/badge/ X.com -%23000000?style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/hupobuboo) 
 [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/hu_po)
 
