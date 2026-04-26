@@ -1,27 +1,31 @@
-**Live on:**
+<!-- Generated from hu-po/data. Edit the source data instead of this file. -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://youtube.com/@hu-po/live"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF0000" alt="YouTube" /></a><br>
+      <a href="https://www.twitch.tv/hu_po"><img src="https://img.shields.io/badge/Twitch-0D1117?style=for-the-badge&amp;logo=twitch&amp;logoColor=9146FF" alt="Twitch" /></a><br>
+      <a href="https://twitter.com/hupobuboo"><img src="https://img.shields.io/badge/X.com-0D1117?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X.com" /></a><br>
+      <a href="https://www.tiktok.com/@hu.po.ai"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&amp;logo=TikTok&amp;logoColor=white" alt="TikTok" /></a>
+    </td>
+    <td align="center">
+      <a href="https://discord.gg/pPAFwndTJd"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&amp;logo=discord&amp;logoColor=7289DA" alt="Discord" /></a><br>
+      <a href="https://substack.com/@hupo"><img src="https://img.shields.io/badge/Substack-0D1117?style=for-the-badge&amp;logo=substack&amp;logoColor=FF6719" alt="Substack" /></a><br>
+      <a href="https://www.reddit.com/r/hupos/"><img src="https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&amp;logo=reddit&amp;logoColor=FF4500" alt="Reddit" /></a><br>
+      <a href="https://patreon.com/user?u=89667142"><img src="https://img.shields.io/badge/Patreon-0D1117?style=for-the-badge&amp;logo=patreon&amp;logoColor=FF424D" alt="Patreon" /></a>
+    </td>
+    <td align="center">
+      <a href="https://hu-po.github.io/"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&amp;logo=About.me&amp;logoColor=5EEAD4" alt="Website" /></a><br>
+      <a href="https://www.linkedin.com/in/hugoponte/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" /></a><br>
+      <a href="https://hu-po.medium.com/"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a><br>
+      <a href="https://www.researchhub.com/user/986081/overview"><img src="https://img.shields.io/badge/ResearchHub-0D1117?style=for-the-badge&amp;logo=researchhub&amp;logoColor=1F79F5" alt="ResearchHub" /></a>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@hu-po/live)
-[<img src="https://img.shields.io/badge/ X.com -%23000000?style=for-the-badge&logo=X&logoColor=white" />](https://twitter.com/hupobuboo) 
-[<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/hu_po)
+<p align="center">
+  Business inquiries: <strong>hu.po.xyz<!-- bad bot -->@<!-- foo@gmail.com -->gmail.com</strong>
+</p>
 
-**Join the Community at:**
-
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/pPAFwndTJd)
-[<img src="https://img.shields.io/badge/Substack-FFA500?style=for-the-badge&logo=substack&logoColor=white" />](https://substack.com/@hupo)
-[<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/r/hupos/)
-
-**Find out more:**
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hugoponte/)
-[<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@hu.po.ai)
-[<img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" />](https://patreon.com/user?u=89667142)
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://hu-po.medium.com)
-[<img src="https://img.shields.io/badge/Researchhub-1F79F5?style=for-the-badge&logo=researchhub&logoColor=white" />](https://www.researchhub.com/user/986081/overview)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://hu-po.github.io/)
-
-Business inquiries: <strong>hu.po.xyz<!-- bad bot -->@<!-- foo@gmail.com -->gmail.com</strong>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=hu-po.readme)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hu-po&show_icons=true&count_private=true&theme=shadow_blue) --> 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hu-po.readme" alt="Visitor badge" />
+</p>
